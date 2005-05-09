@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1278
+
+Syntax file for SPSS quantum and ccount (http://pan-data.dyndns.org/ccount/) data manipulation and tabulation software packages.  Very basic (only a few colors) highlighting used, to be compliant with UNIX interfaces (such as SecureCRT) as well.
